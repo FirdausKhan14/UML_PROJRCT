@@ -1,5 +1,6 @@
 # UML_PROJRCT
 NAME: Firdaus Khan
+
 Business Problem
 Manufacturing industries face frequent challenges due to unexpected machine failures, which result in costly downtime and operational inefficiencies. Additionally, failure data is scarce and imbalanced, making it difficult to train supervised models effectively.
 There is a need for a system that can detect abnormal machine behavior early, without relying on labeled data, to reduce downtime and improve operational efficiency.
